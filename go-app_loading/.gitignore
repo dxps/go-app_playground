@@ -1,0 +1,5 @@
+## Not needed. It is build as part of the service build.
+/loading_svc
+
+## Not needed. It is build as part of the ui build.
+web/app.wasm
